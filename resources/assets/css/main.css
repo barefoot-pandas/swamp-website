@@ -1,0 +1,12 @@
+
+@import "./bootstrap.min.css";
+
+/* @import "./color.css"; */
+
+@import "./responsive.css";
+
+@import "./style.css";
+
+figure.blog-image {
+  background-color: #202020;
+}
